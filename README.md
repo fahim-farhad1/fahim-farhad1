@@ -1,4 +1,4 @@
-[![MasterHead](https://pbs.twimg.com/media/DQlOsZyVAAAXfAx.jpg)](https://rishavchanda.io)
+[![MasterHead](https://images.prismic.io/loco-blogs/79328284-f97b-489f-924c-eb3b17e34b56_image2.png?auto=compress%2Cformat&rect=0%2C0%2C1999%2C1124&w=3840&fit=max)](https://rishavchanda.io)
 # 💫 About Me:
 🌱 I’m currently learning React.JS &  Next.js<br><br>👨‍💻 All of my projects are available at https://fahim-farhad-portfolio.web.app/<br><br>💬 Ask me about MERN-Stack<br><br>📫 How to reach me fahim.farhad132@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/drive/folders/1x0voRyr67TTb5Zuk2FGyfUERg5xvSbkm
 
